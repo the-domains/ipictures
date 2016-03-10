@@ -1,0 +1,14 @@
+layout_spectrum: 0.727836
+typography_spectrum: 0.697791
+color:
+  saturation: 0.5012982
+  lightness: 0.3286612
+  brandStrength: 0.9147418
+  rhythmicContrast: 0.8792914
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 'Ipictures '
