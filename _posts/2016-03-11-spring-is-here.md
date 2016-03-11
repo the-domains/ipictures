@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:463a6a63-1cab-41f8-80af-9a923874f7c3'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-11T02:29:49.050Z'
+dateModified: '2016-03-11T02:20:23.138Z'
 author: []
-datePublished: '2016-03-11T01:36:33.480Z'
-publisher:
-  domain: ''
-  name: ''
 title: Spring is here.
-dateModified: '2016-03-10T21:06:23.445Z'
 sourcePath: _posts/2016-03-11-spring-is-here.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: spring-is-here/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
