@@ -1,7 +1,7 @@
 name: 'Ipictures '
 favicon: null
-layout_spectrum: 0.727836
-typography_spectrum: 0.697791
+layout_spectrum: 1
+typography_spectrum: 0.13902
 cta:
   domain: null
   bucket: null
