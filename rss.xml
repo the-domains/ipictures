@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ipictures ]]></title>
         <description><![CDATA[Ipictures ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ipictures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 01:36:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 02:30:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ipictures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Spring is here.]]></title>
             <description><![CDATA[<article><h1>Spring is here.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/882e215ba17c922ab602b0a2f6d210e8fce176d3.png"></article>]]></description>
-            <link>undefinedspring-is-here/index.html</link>
+            <link>urn:uuid:463a6a63-1cab-41f8-80af-9a923874f7c3</link>
             <guid isPermaLink="false">d47da4e7-93cc-4f6f-a853-69fc134d98b5</guid>
-            <pubDate>Fri, 11 Mar 2016 01:36:33 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 02:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
